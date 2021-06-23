@@ -1,0 +1,13 @@
+.root {
+    margin: 100px;
+}
+
+.root header {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 28px;
+}
+
+.root .todos-container {
+    font-size: 18px;
+}
