@@ -1,14 +1,15 @@
 .root {
-    margin: 100px;
+    margin: 120px;
 }
 
 .root header {
     font-weight: bold;
     font-style: italic;
-    font-size: 28px;
+    font-size: 30px;
     color: #1a4f76;
 }
 
 .root .todos-container {
     font-size: 18px;
+    color: crimson;
 }
