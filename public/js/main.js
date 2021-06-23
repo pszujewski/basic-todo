@@ -24,6 +24,9 @@ function appendTodos(element) {
         { label: "Make dinner" },
         { label: "Do the dishes and clean the kitchen" },
         { label: "Fold clothes" },
+        { label: "Prepare lunch for the next day" },
+        { label: "Water the garden" },
+        { label: "Send an email to my best friend" },
     ];
     todos.forEach(t => {
         const li = document.createElement("li");
